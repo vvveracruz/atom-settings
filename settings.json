@@ -1,0 +1,49 @@
+{
+	"*": {
+		"atom-latex": {
+			"save_on_build": true
+		},
+		"core": {
+			"telemetryConsent": "limited",
+			"themes": [
+				"atom-dark-ui",
+				"atom-dark-syntax"
+			]
+		},
+		"editor": {
+			"fontSize": 15,
+			"preferredLineLength": 70,
+			"showIndentGuide": true,
+			"softWrap": true
+		},
+		"exception-reporting": {
+			"userId": "0bf159d5-021f-4fcc-9051-b108204fb5f0"
+		},
+		"latex": {},
+		"welcome": {
+			"showOnStartup": false
+		},
+		"wordcount": {
+			"alwaysOn": true,
+			"extensions": [
+				"md",
+				"markdown",
+				"readme",
+				"txt",
+				"rst",
+				"adoc",
+				"log",
+				"msg",
+				"tex"
+			],
+			"goalBgColor": "#ff7e79",
+			"goalColor": "#d4fb79"
+		},
+		"sync-settings-git-location": {
+			"gitUrl": "https://github.com/vvveracruz/atom-settings.git"
+		},
+		"sync-settings": {
+			"useOtherLocation": true
+		}
+	}
+}
