@@ -20,6 +20,13 @@
 			"userId": "0bf159d5-021f-4fcc-9051-b108204fb5f0"
 		},
 		"latex": {},
+		"sync-settings": {
+			"hiddenSettings": {},
+			"useOtherLocation": true
+		},
+		"sync-settings-git-location": {
+			"gitUrl": "https://github.com/vvveracruz/atom-settings.git"
+		},
 		"welcome": {
 			"showOnStartup": false
 		},
@@ -38,12 +45,6 @@
 			],
 			"goalBgColor": "#ff7e79",
 			"goalColor": "#d4fb79"
-		},
-		"sync-settings-git-location": {
-			"gitUrl": "https://github.com/vvveracruz/atom-settings.git"
-		},
-		"sync-settings": {
-			"useOtherLocation": true
 		}
 	}
 }

@@ -31,3 +31,18 @@
       \\\\end{figure}
       """
     'description': 'Template for a figure in LaTeX.'
+
+'.text.bibtex, .comment.block.bibtex':
+  'Book bibliography entry':
+    'prefix': 'bibbook'
+    'body': """
+      @book{ surname-year-titlekeyword,
+        author    =   "surname, initials",
+        title     =   "title",
+        year      =   "nnnn",
+        edition   =   "nth edition",
+        publisher =   "publisher",
+        address   =   "city, country",
+      }
+      """
+    'description' : 'Template for bibliography entries.'
