@@ -126,7 +126,7 @@
 		"version": "1.1.2"
 	},
 	"language-gfm": {
-		"version": "0.90.7"
+		"version": "0.90.8"
 	},
 	"language-git": {
 		"version": "0.19.1"
@@ -168,7 +168,7 @@
 		"version": "0.38.1"
 	},
 	"language-php": {
-		"version": "0.44.4"
+		"version": "0.44.5"
 	},
 	"language-property-list": {
 		"version": "0.9.1"
@@ -207,7 +207,7 @@
 		"version": "0.20.0"
 	},
 	"language-typescript": {
-		"version": "0.6.2"
+		"version": "0.6.3"
 	},
 	"language-xml": {
 		"version": "0.35.3"
