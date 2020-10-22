@@ -14,7 +14,8 @@
 			"fontSize": 15,
 			"preferredLineLength": 70,
 			"showIndentGuide": true,
-			"softWrap": true
+			"softWrap": true,
+			"zoomFontWhenCtrlScrolling": true
 		},
 		"exception-reporting": {
 			"userId": "0bf159d5-021f-4fcc-9051-b108204fb5f0"
