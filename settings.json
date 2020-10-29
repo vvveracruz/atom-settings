@@ -7,7 +7,7 @@
 			"telemetryConsent": "limited",
 			"themes": [
 				"atom-dark-ui",
-				"atom-dark-syntax"
+				"base16-tomorrow-dark-theme"
 			]
 		},
 		"editor": {
