@@ -11,7 +11,7 @@
 			]
 		},
 		"editor": {
-			"fontSize": 16,
+			"fontSize": 17,
 			"preferredLineLength": 70,
 			"showIndentGuide": true,
 			"softWrap": true,
