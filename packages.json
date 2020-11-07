@@ -290,6 +290,9 @@
 	"tabs": {
 		"version": "0.110.0"
 	},
+	"terminal-tab": {
+		"version": "0.6.0"
+	},
 	"timecop": {
 		"version": "0.36.2"
 	},
