@@ -12,8 +12,6 @@
 		},
 		"editor": {
 			"fontSize": 16,
-			"preferredLineLength": 70,
-			"showIndentGuide": true,
 			"softWrap": true,
 			"zoomFontWhenCtrlScrolling": true
 		},
