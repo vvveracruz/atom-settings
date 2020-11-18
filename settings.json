@@ -26,9 +26,7 @@
 		"sync-settings-git-location": {
 			"gitUrl": "https://github.com/vvveracruz/atom-settings.git"
 		},
-		"tree-view": {
-			"hideVcsIgnoredFiles": true
-		},
+		"tree-view": {},
 		"welcome": {
 			"showOnStartup": false
 		},
