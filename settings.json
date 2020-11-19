@@ -18,6 +18,9 @@
 		"exception-reporting": {
 			"userId": "0bf159d5-021f-4fcc-9051-b108204fb5f0"
 		},
+		"fonts": {
+			"fontFamily": "Noto"
+		},
 		"latex": {},
 		"sync-settings": {
 			"hiddenSettings": {},
