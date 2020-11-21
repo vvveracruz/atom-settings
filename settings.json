@@ -3,11 +3,23 @@
 		"atom-latex": {
 			"save_on_build": true
 		},
+		"atom-material-ui": {
+			"colors": {},
+			"fonts": {},
+			"tabs": {
+				"compactTabs": true,
+				"stretchedTabs": true
+			},
+			"ui": {
+				"panelContrast": true,
+				"panelShadows": true
+			}
+		},
 		"core": {
 			"telemetryConsent": "limited",
 			"themes": [
 				"atom-dark-ui",
-				"base16-tomorrow-dark-theme"
+				"monokai"
 			]
 		},
 		"editor": {
@@ -19,7 +31,7 @@
 			"userId": "0bf159d5-021f-4fcc-9051-b108204fb5f0"
 		},
 		"fonts": {
-			"fontFamily": "Noto"
+			"fontFamily": "Roboto Mono"
 		},
 		"latex": {},
 		"sync-settings": {
