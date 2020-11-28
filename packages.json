@@ -227,6 +227,9 @@
 	"link": {
 		"version": "0.31.6"
 	},
+	"MagicPython": {
+		"version": "1.1.1"
+	},
 	"markdown-preview": {
 		"version": "0.160.2"
 	},
