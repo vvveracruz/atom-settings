@@ -227,6 +227,9 @@
 	"link": {
 		"version": "0.31.6"
 	},
+	"MagicPython": {
+		"version": "1.1.1"
+	},
 	"markdown-preview": {
 		"version": "0.160.2"
 	},
@@ -292,7 +295,7 @@
 		"version": "5.0.8"
 	},
 	"sync-settings-git-location": {
-		"version": "1.1.7"
+		"version": "1.1.6"
 	},
 	"tabs": {
 		"version": "0.110.0"

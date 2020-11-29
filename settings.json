@@ -16,9 +16,12 @@
 			}
 		},
 		"core": {
+			"disabledPackages": [
+				"language-python"
+			],
 			"telemetryConsent": "limited",
 			"themes": [
-				"atom-dark-ui",
+				"one-dark-ui",
 				"monokai"
 			]
 		},
