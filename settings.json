@@ -20,6 +20,9 @@
 			"themes": [
 				"atom-dark-ui",
 				"monokai"
+			],
+			"disabledPackages": [
+				"language-python"
 			]
 		},
 		"editor": {
