@@ -152,6 +152,9 @@
 	"language-json": {
 		"version": "1.0.5"
 	},
+	"language-kivy": {
+		"version": "0.2.0"
+	},
 	"language-latex": {
 		"version": "1.2.0"
 	},
@@ -295,7 +298,7 @@
 		"version": "5.0.8"
 	},
 	"sync-settings-git-location": {
-		"version": "1.1.6"
+		"version": "1.1.7"
 	},
 	"tabs": {
 		"version": "0.110.0"

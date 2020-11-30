@@ -63,6 +63,17 @@
 			],
 			"goalBgColor": "#ff7e79",
 			"goalColor": "#d4fb79"
+		},
+		"terminal-tab": {
+			"shellSettings": {
+				"shellArgs": "source ~/.bash_profile"
+			}
+		},
+		"bracket-matcher": {}
+	},
+	".kv.source": {
+		"editor": {
+			"tabLength": 4
 		}
 	}
 }
