@@ -26,7 +26,7 @@
 			]
 		},
 		"editor": {
-			"fontSize": 17,
+			"fontSize": 16,
 			"softWrap": true,
 			"zoomFontWhenCtrlScrolling": true
 		},
@@ -34,7 +34,7 @@
 			"userId": "0bf159d5-021f-4fcc-9051-b108204fb5f0"
 		},
 		"fonts": {
-			"fontFamily": "Roboto Mono"
+			"fontFamily": "FiraCode Retina"
 		},
 		"latex": {},
 		"sync-settings": {
