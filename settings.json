@@ -18,7 +18,7 @@
 		"core": {
 			"telemetryConsent": "limited",
 			"themes": [
-				"atom-dark-ui",
+				"one-dark-ui",
 				"monokai"
 			],
 			"disabledPackages": [
@@ -63,6 +63,11 @@
 			],
 			"goalBgColor": "#ff7e79",
 			"goalColor": "#d4fb79"
+		}
+	},
+	".kv.source": {
+		"editor": {
+			"tabLength": 4
 		}
 	}
 }
