@@ -113,6 +113,9 @@
 	"keybinding-resolver": {
 		"version": "0.39.0"
 	},
+	"language-babel": {
+		"version": "2.85.0"
+	},
 	"language-c": {
 		"version": "0.60.19"
 	},
