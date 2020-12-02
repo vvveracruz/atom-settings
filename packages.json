@@ -13,6 +13,9 @@
 		"version": "0.53.3",
 		"theme": "ui"
 	},
+	"atom-json-format": {
+		"version": "0.2.0"
+	},
 	"atom-latex": {
 		"version": "0.9.1"
 	},

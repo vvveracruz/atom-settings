@@ -18,15 +18,12 @@
 		"core": {
 			"telemetryConsent": "limited",
 			"themes": [
-				"one-dark-ui",
+				"atom-dark-ui",
 				"monokai"
-			],
-			"disabledPackages": [
-				"language-python"
 			]
 		},
 		"editor": {
-			"fontSize": 16,
+			"fontSize": 17,
 			"softWrap": true,
 			"zoomFontWhenCtrlScrolling": true
 		},
@@ -34,7 +31,7 @@
 			"userId": "0bf159d5-021f-4fcc-9051-b108204fb5f0"
 		},
 		"fonts": {
-			"fontFamily": "FiraCode Retina"
+			"fontFamily": "Roboto Mono"
 		},
 		"latex": {},
 		"sync-settings": {
@@ -63,11 +60,6 @@
 			],
 			"goalBgColor": "#ff7e79",
 			"goalColor": "#d4fb79"
-		}
-	},
-	".kv.source": {
-		"editor": {
-			"tabLength": 4
 		}
 	}
 }
