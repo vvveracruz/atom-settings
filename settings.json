@@ -34,6 +34,7 @@
 			"fontFamily": "Roboto Mono"
 		},
 		"latex": {},
+		"minimap": {},
 		"sync-settings": {
 			"hiddenSettings": {},
 			"useOtherLocation": true
