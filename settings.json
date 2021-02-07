@@ -43,8 +43,7 @@
 			"gitUrl": "https://github.com/vvveracruz/atom-settings.git"
 		},
 		"tree-view": {
-			"hideIgnoredNames": true,
-			"hideVcsIgnoredFiles": true
+			"hideIgnoredNames": true
 		},
 		"welcome": {
 			"showOnStartup": false
